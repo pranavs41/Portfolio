@@ -2,7 +2,7 @@
 
 B.S. Electrical and Computer Engineering, UT Austin
 
-Pranav_Shivashankar_Portfolio.pdf
+**[Full portfolio (PDF)](Pranav_Shivashankar_Portfolio.pdf)**
 
 - **Custom FPV Quadcopter** — ESP32 flight controller written from scratch.
   500 Hz cascaded PID, DShot300 via RMT, tiered failsafe.
