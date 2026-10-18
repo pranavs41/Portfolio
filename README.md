@@ -10,8 +10,7 @@ B.S. Electrical and Computer Engineering, UT Austin
 - **VTOL Quadplane Flight Controller** — 74 x 66 mm 4-layer PCB around an
   STM32H743 with an ArduPilot pin map: two dissimilar IMUs, dual barometers,
   CAN, microSD, 14 Pixhawk-pinout JST-GH ports, 6S power path. Schematic
-  generated from Python, KiCad run headless through routing, checks and the
-  JLCPCB fab package.
+  capture and layout in KiCad 9, DRC and current checks, JLCPCB fab package.
 - **Custom FPV Quadcopter** — ESP32 flight controller written from scratch.
   500 Hz cascaded PID, DShot300 via RMT, tiered failsafe.
   1.50° RMS hover error measured from logged telemetry.
